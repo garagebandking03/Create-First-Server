@@ -7,7 +7,7 @@
 
 const createServer = require('http').createServer;
 
-// const app = require('express')();        //to install express write "npm install express"
+// const app = require('express')();
 //
 // app.get('/signup',function(req,res){
 //  res.sendFile(path.join(__dirname+'/signup.html'));
